@@ -1,0 +1,1 @@
+# technical-debt-detector
